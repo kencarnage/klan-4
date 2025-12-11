@@ -3,7 +3,7 @@
 
 <br>
 <br>
-The most powerful interface for your browser 🔥
+The ultimate interface for your browser.🔥
 
 With klan you can use your browser like a pro. Manage tabs, bookmarks, your browser history, perform all sorts of actions and more with a simple command interface.
 
